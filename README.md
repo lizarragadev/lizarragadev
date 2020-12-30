@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently
 - 🌱 I’m currently
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking
 - 🤔 I’m looking for 
 - 💬 Ask me about 
 - 📫 How to reach
