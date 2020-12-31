@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently
 - 🌱 I’m currently
 - 👯 I’m looking
-- 🤔 I’m looking for 
+- 🤔 I’m looking +
 - 💬 Ask me about 
 - 📫 How to reach
 - 😄 Pronouns:
