@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m 
-- 🌱 I’m currently
+- 🌱 I’m 
 - 👯 I’m looking
 - 🤔 I’m looking +
 - 💬 Ask me about 
