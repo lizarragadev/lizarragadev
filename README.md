@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m 
 - 🤔 I’m  +
 - 💬 Ask me  
-- 📫 How to reach
+- 📫 How to 
 - 😄 Pronouns:
 
 -->
