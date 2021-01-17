@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I
-- 🌱 I’m 
+- 🌱 I
 - 👯 
 - 🤔 I
 - 💬 
