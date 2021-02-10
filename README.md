@@ -6,5 +6,5 @@
 
 
 <!--
-**lizarragadev/lizarragadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHu
+**lizarragadev/lizarragadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your Git
 -->
