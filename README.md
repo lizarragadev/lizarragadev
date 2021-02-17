@@ -6,5 +6,5 @@
 
 
 <!--
-**lizarragadev/lizarragadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appe
+**lizarragadev/lizarragadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) ap
 -->
