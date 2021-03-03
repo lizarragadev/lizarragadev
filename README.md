@@ -6,5 +6,5 @@
 
 
 <!--
-**lizarragadev/lizarragadev** is a ✨ _special_ ✨ repository because its `RE
+**lizarragadev/lizarragadev** is a ✨ _special_ ✨ repository because its `
 -->
