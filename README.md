@@ -6,5 +6,5 @@
 
 
 <!--
-**lizarragadev/lizarragadev** is a ✨ _special_ ✨ reposi
+**lizarragadev/lizarragadev** is a ✨ _special_ ✨ repo
 -->
