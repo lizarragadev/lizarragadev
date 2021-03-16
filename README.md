@@ -6,5 +6,5 @@
 
 
 <!--
-**lizarragadev/lizarragadev** is a ✨ _specia
+**lizarragadev/lizarragadev** is a ✨ _spec
 -->
