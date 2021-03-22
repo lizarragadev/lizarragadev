@@ -6,5 +6,5 @@
 
 
 <!--
-**lizarragadev/lizarragadev** is a ✨
+**lizarragadev/lizarragadev** is a
 -->
