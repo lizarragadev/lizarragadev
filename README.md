@@ -6,5 +6,5 @@
 
 
 <!--
-**lizarragadev/lizarrag
+**lizarragadev/lizarr
 -->
