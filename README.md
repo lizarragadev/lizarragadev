@@ -6,5 +6,5 @@
 
 
 <!--
-**lizarragadev/l
+**lizarragadev
 -->
