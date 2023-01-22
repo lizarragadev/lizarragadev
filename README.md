@@ -4,7 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizarragadev&count_private=true&hide=css,javascript,html&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <!-- 
 as dssdfsdffdf hdfgd dsfsdfsd s sdf 
 -->
