@@ -7,6 +7,14 @@
   <img alt="Software Engineer" src="https://custom-icon-badges.demolab.com/badge/Traveler-171717.svg?logo=686384-min&logoColor=white&style=flat" />
 </p>
 
+
+[![GitHub Followers](https://img.shields.io/github/followers/lizarragadev?style=social)](https://github.com/lizarragadev/)
+[![GitHub stars](https://img.shields.io/github/stars/lizarragadev?style=social)](https://github.com/lizarragadev/)
+[![Twitter](https://img.shields.io/twitter/follow/lizarragadev?style=social)](https://twitter.com/lizarragadev)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCwt8pkXecvpcykxQPxbsWWw?style=social)](https://www.youtube.com/@gustavolizarraga6207/about)
+
+
+
 [![lizarragadev's github stats](https://github-readme-stats.vercel.app/api/?username=lizarragadev&count_private=true&show_icons=true&hide=issues,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizarragadev&count_private=true&hide=css,javascript,html&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
