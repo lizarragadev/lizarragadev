@@ -12,7 +12,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/lizarragadev?style=social)](https://twitter.com/lizarragadev)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCwt8pkXecvpcykxQPxbsWWw?style=social)](https://www.youtube.com/@gustavolizarraga6207/about)
 
-
 **About me:**
 <!--
 
