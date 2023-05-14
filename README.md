@@ -34,8 +34,6 @@
 -->
 
 
-
-
 <p>
   <img alt="Android" src="https://img.shields.io/badge/-Android-32DE84?style=flat&logo=android&logoColor=white" />
   <img alt="iOS" src="https://img.shields.io/badge/iOS%2DDDDDDD.svg?style=flat&logo=apple&logoColor=171515" />
