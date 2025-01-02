@@ -16,7 +16,6 @@
 
 **About me:**
 <!--
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
@@ -34,8 +33,6 @@
 <!-- 
 
 -->
-
-
 <p>
   <img alt="Android" src="https://img.shields.io/badge/-Android-32DE84?style=flat&logo=android&logoColor=white" />
   <img alt="iOS" src="https://img.shields.io/badge/iOS%2DDDDDDD.svg?style=flat&logo=apple&logoColor=171515" />
